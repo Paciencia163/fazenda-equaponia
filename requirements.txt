@@ -1,0 +1,7 @@
+streamlit           # Interface e frontend
+pandas              # Manipulação de dados
+matplotlib          # Gráficos e visualizações
+os-sys              # Operações de sistema (embutido, mas bom declarar por segurança)
+datetime            # Manipulação de datas e horas
+smtplib             # Envio de emails via SMTP (integrado, mas mencionamos)
+email               # Criação de emails MIME (embutido em Python)
